@@ -1,0 +1,7 @@
+build
+manifest.mf
+nbproject
+*.class
+*~
+
+
